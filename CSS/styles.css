@@ -1,0 +1,144 @@
+body{
+    background-color: grey;
+    font-family: 'DM Sans', sans-serif;
+    margin: 0;
+}
+img{
+    margin: 0 0 0 0 ;
+    padding: 0 0 0 0;
+    border: 0 0 0 0 ;
+    width:100%;
+}
+.top-container{
+    text-align: center;
+    position: relative;
+    top: 150px;
+    font-size: 30px;
+}
+.me{
+    border-radius: 100%;
+    padding-left: 13%;
+    width: 250px;
+    text-align: center;
+    position: relative;
+    left: 30%;
+}
+.profile{
+    font-size: 30px;
+    text-align: center;
+
+}
+.tittle-for-skills{
+    text-align: center;
+    font-size: 50px;
+}
+.dd{
+    width: 28%;
+    float: left;
+    margin-right: 30px;
+    
+    
+}
+.skill-row{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+}
+.P{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+.b{
+    text-align: center;
+}
+.c{
+    text-align: center;
+}
+.bottom-container{
+    text-align: center;
+}
+.contact-me{
+    text-align: center;
+}
+.U{
+    font-family: 'Tangerine', cursive;
+    font-size: 110px;
+    color:#ff6700 ;
+}
+.btn{
+    border-style: groove;
+    border-color: aquamarine;
+    color: black;
+    background-image:radial-gradient() ;
+}
+
+.btn {
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+    width: 151px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .btn span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .btn span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .btn:hover span {
+    padding-right: 25px;
+  }
+  
+  .btn:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+.Ending{
+    margin: auto;
+    text-align: center;
+}
+#skillrow{
+    margin-bottom: 50px;
+}
+hr{
+    border-style: dotted;
+    border-width: 10px;
+    border-style: dotted none none;
+    width: 5%;
+    border-color:#ff6700;
+}
+.bc{
+    background-color: #ff6700;
+    margin: 0 0 0;
+    border: 0 0 0 ;
+    padding-bottom: 50px;
+    
+}
+.footer-link{
+    color: grey;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: black;
+}
