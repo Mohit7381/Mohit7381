@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit7381" alt="mohit7381" /></a> </p>
 
-- 🌱 I’m currently learning **React,Vue,Next,GSAP,Three.js,Node,Mongo**
+- 🌱 I’m currently learning **React,Vue,Next,Node,Mongo**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohit7381](https://github.com/Mohit7381)
 
